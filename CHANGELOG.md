@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/transloadit/eslint-plugin-transloadit/compare/v1.0.0...v1.0.1) (2023-07-12)
+
+
+### Bug Fixes
+
+* fix config package name ([d29c033](https://github.com/transloadit/eslint-plugin-transloadit/commit/d29c0339acce32fd16267ec8cdefd57b9eacbba1))
+
 ## 0.1.0 (2023-07-12)
 
 
