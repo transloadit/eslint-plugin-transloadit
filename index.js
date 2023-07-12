@@ -1,6 +1,6 @@
 'use strict';
 
-const config = require('transloadit-config-eslint');
+const config = require('eslint-config-transloadit');
 
 module.exports = {
 	meta: {
