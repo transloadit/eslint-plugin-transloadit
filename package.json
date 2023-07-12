@@ -16,7 +16,7 @@
 	},
 	"license": "MIT",
 	"engines": {
-		"node": ">= 18"
+		"node": "^16.19.1 || >= 18"
 	},
 	"scripts": {
 		"test": "node --test",
