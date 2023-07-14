@@ -10,7 +10,13 @@ module.exports = {
 		// x-release-please-end
 	},
 	configs: {
-		config,
+		config: {
+			...config,
+			rules: {
+				...config.rules,
+				'transloadit/no-useless-iife': 'error',
+			},
+		},
 	},
 	rules: {
 		'no-useless-iife': require('./rules/no-useless-iife'),
