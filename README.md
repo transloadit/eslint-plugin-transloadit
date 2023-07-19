@@ -12,7 +12,6 @@ Then in your `.eslintrc`, you can have:
 
 ```json
 {
-  "extends": ["plugin:transloadit/config"],
   "plugin": {
     "transloadit"
   },
