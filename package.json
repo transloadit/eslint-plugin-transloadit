@@ -1,7 +1,7 @@
 {
 	"name": "eslint-plugin-transloadit",
 	"version": "0.1.2",
-	"description": "Transloadit eslint plugins",
+	"description": "Transloadit eslint plugin",
 	"main": "index.js",
 	"repository": "git://github.com/transloadit/eslint-plugin-transloadit.git",
 	"author": "Antoine du Hamel <antoine@transloadit.com>",
