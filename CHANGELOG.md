@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.2.0](https://github.com/transloadit/eslint-plugin-transloadit/compare/v0.1.2...v0.2.0) (2023-07-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove config ([#6](https://github.com/transloadit/eslint-plugin-transloadit/issues/6))
+
+### Features
+
+* remove config ([#6](https://github.com/transloadit/eslint-plugin-transloadit/issues/6)) ([1cc195a](https://github.com/transloadit/eslint-plugin-transloadit/commit/1cc195af9c16d966bf149c5337e603df3171dc5b))
+
 ## [0.1.2](https://github.com/transloadit/eslint-plugin-transloadit/compare/v0.1.1...v0.1.2) (2023-07-12)
 
 
