@@ -1,5 +1,7 @@
 # eslint-plugin-transloadit
 
+> Warning. This repo is deprecated as Transloadit has switched to using Biome
+
 Transloadit ESLint custom rules.
 
 ## Installing
